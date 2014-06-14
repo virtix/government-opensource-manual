@@ -13,10 +13,11 @@
 - [ ] Security
 - [ ] Culture, confusion, and misunderstanding
 
-### Solutions
+### Solutions & Implementation
 - [ ] Outreach
 - [ ] Direct Engagement
 - [ ] Policies
+- [ ] Contract Language and Procurement
 - [ ] Templates
 - [ ] Hostile environments
 - [ ] What can contractors do to help?
