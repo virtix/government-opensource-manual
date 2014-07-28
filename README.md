@@ -9,5 +9,6 @@ View [the contributing guidelines](CONTRIBUTING.md) for ways to help with this p
 
 ----
 
-### This work is free and dedicated to the public domain as prescribed by
-https://creativecommons.org/publicdomain/zero/1.0/
+### This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+http://creativecommons.org/licenses/by/4.0/
