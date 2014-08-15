@@ -1,0 +1,5 @@
+#Chapter One
+
+Once upon a time, there was a character, not a Disney character, mind you, but an ASCII charcter.  She was 
+decimal 7, Hexadecimal 7, and Octal 7.  She wasi very special and we'll call her Bell. She's the only character
+that had a real voice, and it's hard to actually see her.
