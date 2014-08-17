@@ -1,3 +1,12 @@
 Introduction.txt
-chapter1.txt
-chapter2.md
+Workflows_and_Tools.txt
+Collaboration_Models.txt
+Open_Source_Education.txt
+Privacy_and_Security.txt
+Procurement.txt
+Beyond_Source_Code.txt
+References.txt
+Appendix.txt
+
+
+
