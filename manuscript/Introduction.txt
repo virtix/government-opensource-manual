@@ -3,4 +3,10 @@
 
 #Introduction
 
+##Definition
+
 Most people don't know what open source is or what it means.  As a matter of fact, most people don't know what _source code_ is.  Lastly, most people don't care about your source code.
+
+##Problems
+
+In government ...
